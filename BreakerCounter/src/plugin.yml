@@ -1,0 +1,10 @@
+name: BreakerCounter
+main: fr.breakerland.breakercounter.BreakerCounter
+api-version: 1.15
+version: 1.0
+description: Count how many advancements you have done
+author: AzodFR
+
+commands:
+  advc:
+    description: Count how many advancements you have done
